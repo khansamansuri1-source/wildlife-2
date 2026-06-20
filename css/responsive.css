@@ -1,0 +1,914 @@
+@media (max-width:1200px){
+.search-luxuriousvilla.overlape {margin-left: 0;width: 100%;}
+.instagram .title1 {padding-top: 41px;}
+.footer-links::after {right: -254px;}
+
+}
+
+
+@media (max-width:980px){
+.theme-layout {padding-top: 0 !important;}
+header {display: none;}
+.responsive-header {display: block;}
+.container,
+.block .container {padding: 0 15px;}
+.title1.vertical {
+    bottom: auto;
+    float: left;
+    left: auto;
+    margin-bottom: 45px;
+    position: relative;
+    text-align: center;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    width: 100%;
+}
+.spec-services {padding-left: 0;}
+.title1.vertical::before {height: 187px;left: 50%;top: -110px;}
+.about-services {margin-bottom: 30px;margin-left: 0;margin-right: 0;max-width: 100%;}
+.services-list1 {display: block;float: left;max-width: 100%;width: 100%;}
+.services-list1 > .row > div {float: left;width: 50%;}
+.remove-ext2 > .row > div {float: left;width: 50%;}
+.villa-arrangements::before {height: 100%;right: 0;width: 100%;}
+.villa-arrangementsinfo {margin-bottom: 50px;padding-right: 35px;}
+.we-offers {padding: 0 35px;}
+.we-offers > .row > div {float: left;width: 50%;}
+.villa-locationslist > ul > li {margin-top: 20px;width: 33.334% !important;}
+.villa-location {margin-top: 0;}
+.single-property > .row > div {float: left;width: 50%;}
+.single-property .theme-btn {margin-top: 20px;}
+.recentnew-detail {float: left;margin-top: 0;padding: 30px 30px 0 0;width: 100%;}
+.recentnew-detail > h4 {font-size: 13px;}
+.post-meta > li {font-size: 11px;}
+.instagram-gallery {float: left;width: 100%;}
+.instagram .title1 {margin-bottom: 45px;padding-bottom: 0;padding-left: 0;padding-top: 55px;text-align: center;width: 100%;}
+.instagram .title1::before {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.footer-widget {margin-bottom: 50px;}
+footer .row > div:last-child .footer-widget {margin-bottom: 0;}
+ul.Social-btn {margin-top: 10px;}
+.bottom-menu {height: initial;padding-bottom: 20px;}
+.search-luxuriousform > .row > div {float: left;width: 50%;}
+form.check-sec > .row > div {float: left;padding-bottom: 5px;width: 100%;}
+.search-luxuriousform.active {top: -373%;}
+.bloglist-sec.remove-ext3.overlape {margin-top: 0;}
+.bloglist-sec .bloglist-detail {padding-left: 0px;}
+.per-night {margin-bottom: 20px;margin-top: 0;}
+.bloglist-sec .features-list {padding-left: 110px;}
+.bloglist-detail .title1.vertical {
+    bottom: 50px;
+    left: -20px;
+    position: absolute;
+    text-align: left;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -otransform: rotate(-90deg);
+    transform: rotate(-90deg);
+    width: auto;
+}
+.bloglist-sec .bloglist-post > .row > div {float: left;width: 100%;}
+.style2 .title1.vertical {bottom: 0;}
+.style2 .title1.vertical::before {height: 177px;top: -100px;}
+.search-luxuriousvilla.overlape.style2 {margin-top: 40px;max-width: 100%;}
+.search-luxuriousvilla.style2 h3 {width: 100%;}
+.search-luxuriousvilla.style2::after, 
+.search-luxuriousvilla.style2 .search-luxuriousform::before {display: none;}
+.agent-thumb {margin-bottom: 0;}
+.villa-agent > .row > div {float: left;width: 50%;}
+.remove-ext > .row > div {float: left;width: 50%;}
+.address-widget {margin-top: 0;}
+.servicesdetail-page::before {
+    right: 0;
+    -webkit-transform: translate(0px);
+    -moz-transform: translate(0px);
+    -ms-transform: translate(0px);
+    -o-transform: translate(0px);
+    transform: translate(0px);
+    width: 100%;
+}
+.servicesdetail-page .col-md-5 {padding-left: 15px;}
+.servicesdetail-page .villa-arrangementsinfo {padding-left: 35px;padding-right: 35px;}
+.servicedetail-thumb {padding: 0 35px;}
+.packageimg-gallery {margin-top: 30px;}
+.Rooms-detail > p {max-width: 100%;}
+.package-video .per-night {margin-bottom: 0;}
+.style4 .title1.vertical {bottom: -10px;}
+.style3 .title1.vertical {bottom: 0;}
+.contact-info {bottom: 0;float: left;left: 0;position: relative;}
+.form-sec > form > .row > div {float: left;width: 100%;}
+.blog-post2 {margin-bottom: 50px;}
+ul.widget-gallery > li {width: 20%;}
+ul.widget-gallery > li img {width: 100%;}
+.comment-threads ul li {padding-left: 100px;}
+.s2-l5 {height: 220px !important;width: 180px !important;}
+}
+ 
+	
+@media (max-width:767px){
+.bloglist-sec.remove-ext3.overlape {margin-top: 0;}
+.per-night {margin-bottom: 20px;margin-top: 0;}
+.bloglist-detail .title1.vertical {
+    bottom: 50px;
+    left: -20px;
+    position: absolute;
+    text-align: left;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.bloglist-sec .bloglist-post > .row > div {float: left;width: 100%;}
+.style2 .title1.vertical {bottom: 0;}
+.style2 .title1.vertical::before {height: 177px;top: -100px;}
+.search-luxuriousvilla.overlape.style2 {margin-top: 40px;max-width: 100%;}
+.search-luxuriousvilla.style2 h3 {width: 100%;}
+.search-luxuriousvilla.style2::after, 
+.search-luxuriousvilla.style2 .search-luxuriousform::before {display: none;}
+.agent-thumb {margin-bottom: 0;}
+.villa-agent > .row > div {float: left;width: 50%;}
+.remove-ext > .row > div {float: left;width: 50%;}
+.featuredimage-content {
+    background: #000000 none repeat scroll 0 0;
+    float: left;
+    padding: 80px;
+    position: relative;
+    top: auto;
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    transform: translateY(0px);
+}
+.gallery-list > ul > li, .gallery-list > ul > li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(2),
+.gallery-list > ul > li:nth-last-child(2) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(3),
+.gallery-list > ul > li:nth-last-child(3) ~ li.activ,
+.gallery-list > ul > li:first-child.active:nth-last-child(4),
+.gallery-list > ul > li:nth-last-child(4) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(5),
+.gallery-list > ul > li:nth-last-child(5) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(6),
+.gallery-list > ul > li:nth-last-child(6) ~ li.active {width: 50% !important;}
+.gallery-list > ul > li > .gallery-item > ul {
+    max-width: 100%;
+    opacity: 1;
+    right: auto;
+    top: 0;
+    -webkit-transform: translate(0px);
+    -moz-transform: translate(0px);
+    -ms-transform: translate(0px);
+    -o-transform: translate(0px);
+    transform: translate(0px);
+    visibility: visible;
+    width: 100%;
+}
+.gallery-list > ul > li > .gallery-item > ul li {float: left;width:25%;}
+.gallery-item .tab-pane > img {width: 100% !important;}
+.gallery-detail {
+    float: left;
+    left: auto;
+    position: relative;
+    right: 30px;
+    text-align: right;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    width: 100%;
+}
+.gallery-list > ul > li.active .gallery-detail {left: auto;}
+.gallery-list > ul > li.active .gallery-detail > h4 {font-size: 20px;}
+.fun-facts.style2 > ul > li {margin-right: 50px;max-width: 40%;padding: 0 50px 0 0;}
+.recentnews-carousel {padding: 0;}
+.style2 .fun-facts.style2 .fun-fact > strong {color: #efefef;}
+.style2 .fun-facts.style2 .fun-fact > span {color: #e6e6e6;}
+.s2-l5 {height: 175px !important;width: 150px !important;}
+}
+
+
+
+@media (max-width:480px){
+.search-luxuriousvilla.overlape {margin-bottom: 0;margin-top: 0;}
+.search-luxuriousvilla h3 {font-size: 20px;line-height: 30px;padding: 20px;}
+.search-luxuriousform {float: left;left: 0;margin-top: 20px;top: auto;width: 100%;}
+.search-luxuriousform .row div {width: 100%;}
+.search-luxuriousform > .row > div {padding-bottom: 5px;}
+.search-luxuriousvilla > span {width: 100%;}
+.search-luxuriousvilla > span::before {display: none;}
+.search-luxuriousform.active {position: relative;top: auto;}
+.services-list1 > .row > div {width: 100%;}
+.spec-services {padding-bottom: 0;padding-top: 10px;}
+.customers-reviews {border: 0 none;padding: 30px;}
+.customers-reviews.overlape {margin-bottom: 0;margin-top: 20px;}
+.block.ext-toppadd {padding-top: 100px;}
+.remove-ext2 > .row > div {width: 100%;}
+.title1 h2 {font-size: 25px;}
+.title1.vertical h2 {font-size: 25px;}
+.title1.vertical > h2 span {font-size: 21px;}
+.villa-arrangementsinfo .theme-btn {padding: 19px 40px;}
+.we-offers > .row > div {width: 100%;}
+.we-offers {padding: 0 15px;}
+.villa-arrangementsinfo {padding: 0 15px;}
+.villa-locationslist > ul > li {width: 100% !important;}
+.single-property > .row > div {margin-bottom: 40px;width: 100%;}
+.instagram .title1 > h2 {font-size: 20px;}
+.fun-fact > i {font-size: 25px;}
+.fun-fact > strong {font-size: 25px;}
+.fun-fact > span {font-size: 11px;}
+.fun-facts > ul > li:nth-child(2n+1) {padding-right: 30px;}
+.footer-links::after {display: none;}
+.gallery-list > ul > li, .gallery-list > ul > li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(2),
+.gallery-list > ul > li:nth-last-child(2) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(3),
+.gallery-list > ul > li:nth-last-child(3) ~ li.activ,
+.gallery-list > ul > li:first-child.active:nth-last-child(4),
+.gallery-list > ul > li:nth-last-child(4) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(5),
+.gallery-list > ul > li:nth-last-child(5) ~ li.active,
+.gallery-list > ul > li:first-child.active:nth-last-child(6),
+.gallery-list > ul > li:nth-last-child(6) ~ li.active {width: 100% !important;}
+.villa-agent > .row > div {margin-bottom: 50px;width: 100%;}
+.villa-agent .title1 {margin-top: 51px;}
+.agent-about {padding-right: 30px;}
+.remove-ext > .row > div {width: 100%;}
+.featuredimage-content {padding: 50px 30px;}
+.featuredimage-content > h2 {font-size: 25px;}
+.fun-facts.style2 > ul > li {margin-right: 0;max-width: 100%;padding-right: 0;text-align: center;}
+.fun-facts.style2 > ul > li::before {display: none;}
+.fun-facts.style2 .fun-fact > i {float: none;}
+.bloglist-detail .title1.vertical {
+    bottom: 0;
+    left: auto;
+    position: relative;
+    text-align: center;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    width: 100%;
+}
+.bloglist-sec .features-list {padding-left: 0;}
+.instagram .title1::after {display: none;}
+.customer-review {text-align: center;}
+.customer-thumb {display: inline-block;float: none;margin-right: 0;}
+.customer-reviewrating {margin-top: 30px;max-width: 100%;}
+.customer-reviewrating > p {font-size: 15px;}
+.title1 > p {font-size: 14px;}
+.title1 > span {font-size: 12px;}
+.bloglist-detail .title1 > h2 {font-size: 19px;line-height: 25px;}
+.search-luxuriousvilla.style2::after, 
+.search-luxuriousvilla.style2 .search-luxuriousform::before {display: block;}
+.search-luxuriousvilla.style2 .search-luxuriousform::before {right: -17%;}
+.logomenu-bar {padding-left: 0;padding-right: 0;}
+.page-title > strong {font-size: 22px;}
+.mockup.overlape {margin: -80px 0 0;}
+.service-title .title1 > h1 {font-size: 20px;}
+.servicesdetail-page .villa-arrangementsinfo {padding-left: 20px;padding-right: 20px;}
+.servicedetail-thumb {padding: 0 20px;}
+.bloglist-detail {padding-right: 35px;}
+.package-video .per-night {bottom: 0;float: left;position: relative;right: 0;}
+.package-video .book-btn2 {bottom: 0;}
+.package-video > i {font-size: 40px;}
+.Rooms-detail > .title1 > h1 {font-size: 22px;line-height: 25px;max-width: 100%;}
+.packagefeature-overlay {padding: 35px 0 0;position: relative;}
+.packagefeature-inner {padding: 0;}
+.packagefeature-inner .bloglist-detail {padding-left: 0;}
+.packagefeature-inner .bloglist-detail .title1.vertical {left: 0;margin-bottom: 30px;}
+.block.ext-bottompadd {padding-bottom: 90px;}
+.customers-reviews.overlape.style2 {margin-bottom: 90px;margin-top: 0;}
+.spec-services.style3 {padding-top: 0;}
+.contact-inner {padding: 50px 20px;}
+.contact-inner > ul > li > i.fa {font-size: 16px;height: 48px;line-height: 48px;width: 48px;}
+.contact-inner > ul > li {padding-left: 65px;}
+.blogpost-detail > h4 {font-size: 15px;line-height: 22px;}
+.title1.style3 > h2 {font-size: 22px;}
+.title2 {font-size: 22px;}
+.title1.style3 > h2 {font-size: 22px;}
+.title2 {font-size: 22px;}
+.blogpost-detail > h1 {font-size: 20px;}
+.tags .cate-list > li {margin-top: 5px;}
+blockquote {padding: 35px;}
+.author-info {padding-left: 0;padding-top: 0;}
+.author-thumb {max-width: 100%;position: relative;}
+.author-thumb > img {width: 100%;}
+.about-author {padding: 40px 30px;}
+.comment-thumb {margin-right: 0;max-width: 100%;}
+.comment-thumb > img {margin-right: 20px;}
+.comment-content {float: left;padding: 40px 30px;width: 100%;}
+.comment-threads ul li {padding-left: 0;}
+ul.widget-gallery > li {width: 25%;}
+.ratings > i {display: inline-block;float: none;}
+.s2-l5 {height: 80px !important;width: 60px !important;}
+}
+
+/* Luxury responsive overrides loaded after the legacy template queries. */
+.luxury-masonry-item {
+    height: 300px !important;
+    min-height: 0 !important;
+}
+.luxury-masonry-item.tall {
+    height: 620px !important;
+}
+.luxury-masonry-item.wide {
+    height: 300px !important;
+}
+.luxury-testimonials .owl-stage-outer {
+    overflow: hidden;
+}
+.luxury-testimonial-slider .owl-stage {
+    display: flex;
+    align-items: stretch;
+}
+.luxury-testimonial-slider .owl-item {
+    display: flex;
+}
+.luxury-testimonial {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+}
+.luxury-testimonial-slider .owl-nav {
+    color: transparent;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    z-index: 4;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    align-items: center;
+    border: 0;
+    border-radius: 50%;
+    bottom: auto;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    left: -24px;
+    line-height: 48px;
+    position: absolute;
+    right: auto;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+}
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: auto;
+    right: -24px;
+}
+.luxury-testimonial-slider .owl-nav > div::before,
+.luxury-testimonial-slider .owl-nav > div.owl-next::before {
+    bottom: auto;
+    color: #0b8a4b;
+    left: auto;
+    position: static;
+    right: auto;
+    top: auto;
+}
+.luxury-room-card .bloglist-detail {
+    max-width: 620px;
+}
+.luxury-room-card .bloglist-detail > p {
+    color: #5f6b62;
+    font-size: 15px;
+    line-height: 29px;
+    max-width: 560px;
+}
+.luxury-room-card .bloglist-post > .row {
+    display: flex;
+    align-items: stretch;
+}
+.luxury-room-card .post-thumb,
+.luxury-room-card .post-thumb > img {
+    height: 100%;
+}
+.luxury-gallery-grid .gallery-item,
+.luxury-gallery-grid .gallery-item .tab-content,
+.luxury-gallery-grid .gallery-item .tab-content .tab-pane {
+    min-height: 100%;
+}
+
+@media (max-width:980px){
+.home-hero,
+.home-hero .block,
+.home-hero .row,
+.home-hero .col-md-12,
+.home-hero .featured-carouselsec,
+.home-hero .creative-slider,
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider {
+    min-height: 820px !important;
+}
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider,
+.home-hero .tp-fullwidth-forcer {
+    height: 820px !important;
+}
+.featuredimage-content.luxury-hero-content {
+    align-items: center;
+    background: transparent;
+    bottom: 0;
+    display: flex;
+    float: none;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    top: 0;
+    transform: none;
+    width: 100%;
+}
+.luxury-hero-content .container {
+    width: 100%;
+}
+.hero-copy {
+    max-width: 720px;
+    padding-top: 126px;
+}
+.hero-actions {
+    align-items: flex-start;
+}
+.luxury-btn {
+    width: auto;
+}
+.luxury-room-card .bloglist-post > .row {
+    display: block;
+}
+.luxury-room-card .bloglist-detail {
+    max-width: 100%;
+}
+.luxury-room-card .bloglist-detail > p {
+    max-width: 100%;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: 12px;
+}
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: auto;
+    right: 12px;
+}
+.luxury-masonry-item,
+.luxury-masonry-item.wide {
+    height: 300px !important;
+}
+.luxury-masonry-item.tall {
+    height: 460px !important;
+}
+}
+
+@media (max-width:767px){
+.home-hero,
+.home-hero .block,
+.home-hero .row,
+.home-hero .col-md-12,
+.home-hero .featured-carouselsec,
+.home-hero .creative-slider,
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider {
+    min-height: 760px !important;
+}
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider,
+.home-hero .tp-fullwidth-forcer {
+    height: 760px !important;
+}
+.hero-copy {
+    max-width: 100%;
+    padding-top: 122px;
+}
+.hero-copy h1 {
+    font-size: 38px;
+}
+.hero-actions {
+    align-items: stretch;
+}
+.luxury-btn {
+    width: 100%;
+}
+.luxury-masonry-item,
+.luxury-masonry-item.wide,
+.luxury-masonry-item.tall {
+    height: 320px !important;
+}
+.luxury-testimonial-slider .owl-nav {
+    display: none;
+}
+}
+
+@media (max-width:480px){
+.home-hero,
+.home-hero .block,
+.home-hero .row,
+.home-hero .col-md-12,
+.home-hero .featured-carouselsec,
+.home-hero .creative-slider,
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider {
+    min-height: 720px !important;
+}
+.home-hero .rev_slider_wrapper,
+.home-hero .rev_slider,
+.home-hero .tp-fullwidth-forcer {
+    height: 720px !important;
+}
+.hero-copy h1 {
+    font-size: 32px;
+}
+.scroll-indicator {
+    bottom: 22px;
+}
+}
+
+@media (max-width:980px){
+.responsive-header .topbar-contact {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.responsive-header .topbar-contact > li,
+.responsive-header .topbar-contact > li.active {
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    text-indent: 0;
+}
+[data-aos="fade-left"],
+[data-aos="fade-right"] {
+    transform: translate3d(0, 32px, 0) !important;
+}
+[data-aos="fade-left"].aos-animate,
+[data-aos="fade-right"].aos-animate {
+    transform: translate3d(0, 0, 0) !important;
+}
+}
+
+@media (max-width:767px){
+.responsive-header .topbar-contact > li,
+.responsive-header .topbar-contact > li.active {
+    width: 100%;
+}
+.pagetop-sec {
+    min-height: 410px !important;
+    padding-top: 205px !important;
+}
+}
+
+/* Final alignment QA: Guest Experience slider and Deluxe Rooms layout. */
+.home-hero .row,
+.home-hero .col-md-12,
+.luxury-gallery > .block > .row,
+.luxury-gallery > .block > .row > [class*="col-"] {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+.luxury-testimonials .customers-reviews {
+    box-sizing: border-box;
+    background: transparent;
+    border: 0;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1060px;
+    overflow: visible;
+    padding-left: 76px;
+    padding-right: 76px;
+    position: relative;
+    width: 100%;
+}
+.luxury-testimonials .customers-reviews::before {
+    display: none;
+}
+.luxury-testimonial-slider .owl-stage-outer {
+    background: transparent;
+    overflow: hidden;
+}
+.luxury-testimonial-slider .owl-stage {
+    align-items: stretch;
+    display: flex;
+}
+.luxury-testimonial-slider .owl-item {
+    display: flex;
+    justify-content: center;
+}
+.luxury-testimonial {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    width: 100%;
+}
+.luxury-testimonial-slider .owl-nav {
+    bottom: auto;
+    color: transparent;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    z-index: 4;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    align-items: center;
+    background: #ffffff;
+    border: 1px solid rgba(8, 36, 23, 0.12) !important;
+    border-bottom: 1px solid rgba(8, 36, 23, 0.12) !important;
+    border-left: 1px solid rgba(8, 36, 23, 0.12) !important;
+    border-right: 1px solid rgba(8, 36, 23, 0.12) !important;
+    border-top: 1px solid rgba(8, 36, 23, 0.12) !important;
+    border-radius: 50%;
+    bottom: auto;
+    box-shadow: 0 10px 30px rgba(8, 36, 23, 0.12);
+    box-sizing: border-box;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    left: 14px;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: auto;
+    top: 50%;
+    transform: translateY(-50%) scale(1);
+    transition: background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+    width: 48px;
+}
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: auto;
+    right: 14px;
+}
+.luxury-testimonial-slider .owl-nav > div::before,
+.luxury-testimonial-slider .owl-nav > div.owl-next::before {
+    align-items: center;
+    bottom: auto;
+    color: #0b8a4b;
+    display: flex;
+    flex: 0 0 1em;
+    font-family: fontawesome;
+    font-size: 18px;
+    height: 1em;
+    justify-content: center;
+    left: auto;
+    line-height: 1;
+    margin: 0;
+    max-width: 1em;
+    min-width: 1em;
+    padding: 0;
+    position: static;
+    right: auto;
+    text-align: center;
+    text-indent: 0;
+    top: auto;
+    transform: none;
+    transition: color 0.25s ease;
+    width: 1em;
+}
+.luxury-testimonial-slider .owl-nav > div:hover {
+    background: #0b8a4b;
+    border-color: #0b8a4b !important;
+    box-shadow: 0 16px 38px rgba(11, 138, 75, 0.22);
+    transform: translateY(-50%) scale(1.06);
+}
+.luxury-testimonial-slider .owl-nav > div:hover::before {
+    color: #ffffff;
+}
+.luxury-room-card .luxury-room-layout {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 0;
+    margin-right: 0;
+}
+.luxury-room-card .luxury-room-layout > [class*="col-"] {
+    box-sizing: border-box;
+    float: none;
+    min-width: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.luxury-room-card .luxury-room-image-col {
+    flex: 0 0 42%;
+    max-width: 42%;
+}
+.luxury-room-card .luxury-room-content-col {
+    flex: 0 1 40%;
+    max-width: 40%;
+}
+.luxury-room-card .luxury-room-feature-col {
+    align-items: center;
+    display: flex;
+    flex: 0 0 18%;
+    justify-content: center;
+    max-width: 18%;
+    padding: 56px 30px 56px 0;
+}
+.luxury-room-card .bloglist-detail {
+    box-sizing: border-box;
+    max-width: 560px;
+    padding-left: 44px;
+    padding-right: 44px;
+}
+.luxury-room-meta-column {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 12px;
+    margin: 0;
+    width: 100%;
+}
+.luxury-room-meta-column span {
+    box-sizing: border-box;
+    display: block;
+    line-height: 1.35;
+    white-space: normal;
+    width: 100%;
+}
+.luxury-contact-grid {
+    align-items: stretch;
+    gap: 34px;
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+}
+.luxury-contact-card,
+.luxury-booking-form {
+    box-sizing: border-box;
+    padding: 44px;
+}
+.luxury-contact-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+}
+.luxury-booking-form form > .row {
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.luxury-booking-form form > .row > [class*="col-"] {
+    padding-bottom: 22px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.luxury-booking-form .text-field,
+.luxury-booking-form select.text-field {
+    min-height: 56px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.luxury-booking-form textarea.text-field {
+    margin-bottom: 2px;
+    min-height: 150px;
+    resize: vertical;
+}
+.luxury-booking-form .theme-btn {
+    float: none;
+    margin-top: 2px;
+    min-width: 190px;
+}
+
+@media (max-width:980px){
+.luxury-testimonials .customers-reviews {
+    padding-left: 64px;
+    padding-right: 64px;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: 8px;
+}
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: auto;
+    right: 8px;
+}
+.luxury-room-card .luxury-room-layout {
+    display: flex;
+    flex-wrap: wrap;
+}
+.luxury-room-card .luxury-room-image-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.luxury-room-card .luxury-room-content-col {
+    flex: 0 0 64%;
+    max-width: 64%;
+}
+.luxury-room-card .luxury-room-feature-col {
+    align-items: flex-start;
+    flex: 0 0 36%;
+    max-width: 36%;
+    padding: 46px 34px 42px 0;
+}
+.luxury-room-card .bloglist-detail {
+    max-width: 100%;
+}
+.luxury-contact-grid {
+    grid-template-columns: 1fr;
+}
+.luxury-contact-card,
+.luxury-booking-form {
+    padding: 42px;
+}
+}
+
+@media (max-width:767px){
+.luxury-testimonials .customers-reviews {
+    padding-left: 52px;
+    padding-right: 52px;
+}
+.luxury-testimonial-slider .owl-nav {
+    display: block;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    height: 42px;
+    left: 2px;
+    line-height: 1;
+    width: 42px;
+}
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    left: auto;
+    right: 2px;
+}
+.luxury-room-card .luxury-room-content-col,
+.luxury-room-card .luxury-room-feature-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.luxury-room-card .luxury-room-feature-col {
+    padding: 0 24px 36px;
+}
+.luxury-room-meta-column {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.luxury-room-meta-column span {
+    flex: 1 1 100%;
+}
+.luxury-contact-card,
+.luxury-booking-form {
+    padding: 34px;
+}
+.luxury-booking-form form > .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.luxury-booking-form form > .row > [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+.luxury-booking-form .theme-btn {
+    width: 100%;
+}
+}
+
+@media (max-width:480px){
+.luxury-testimonials .customers-reviews {
+    padding-left: 46px;
+    padding-right: 46px;
+}
+.luxury-testimonial {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.luxury-testimonial-slider .owl-nav > div,
+.luxury-testimonial-slider .owl-nav > div.owl-next {
+    height: 38px;
+    line-height: 1;
+    width: 38px;
+}
+.luxury-contact-card,
+.luxury-booking-form {
+    padding: 28px;
+}
+.luxury-booking-form .text-field,
+.luxury-booking-form select.text-field {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+}

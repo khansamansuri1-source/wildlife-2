@@ -1,0 +1,47 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 21/06/2016 07:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="flaticon-"], [class*=" flaticon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: flaticon !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-cleaning-lady:before { content: "\f100"; }
+.flaticon-floor-wheel:before { content: "\f101"; }
+.flaticon-food:before { content: "\f102"; }
+.flaticon-glass-and-bottle-of-wine:before { content: "\f103"; }
+.flaticon-home:before { content: "\f104"; }
+.flaticon-house:before { content: "\f105"; }
+.flaticon-notebook-and-mouse-cursor:before { content: "\f106"; }
+.flaticon-people:before { content: "\f107"; }
+.flaticon-people-1:before { content: "\f108"; }
+.flaticon-private:before { content: "\f109"; }
+.flaticon-security:before { content: "\f10a"; }
+.flaticon-sport:before { content: "\f10b"; }
+.flaticon-square:before { content: "\f10c"; }
+.flaticon-stack:before { content: "\f10d"; }
+.flaticon-transport:before { content: "\f10e"; }
+.flaticon-volkswagen-car-side-view:before { content: "\f10f"; }

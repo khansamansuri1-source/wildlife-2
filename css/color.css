@@ -1,0 +1,177 @@
+/*========== Background Color ==========*/
+.logo > a,
+.logo > a:before,
+.search-luxuriousvilla > span,
+.search-luxuriousvilla > span::before,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.theme-btn,
+.package-thumb:hover > span,
+.location-book > li.book-btn,
+.logo2::before, 
+.logo2::after, 
+.logo2 > span::before,
+.sponsor-carousel .owl-nav > div:hover,
+.instagram,
+.footer-links,
+.footer-links:before,
+.bottom-menu,
+.Social-btn > li > a,
+.book-btn2,
+.gallery-item > ul > li > a::before,
+.agent-address > i,
+.cate-list > li > a,
+.pagination > li.active > span,
+.pagination > li.active > span:hover,
+.pagination > li > a:hover,
+.pagination > li.prev > a:hover, 
+.pagination > li.next > a:hover,
+.option-set > li > a:hover,
+.option-set > li > a.selected,
+.tags .cate-list > li > a:hover,
+.tags-social .social-btns > ul > li > a::before,
+.style2 .service1 > span:before,
+.contact-inner > ul > li > i.fa,
+.package-video .per-night,
+.package-video.active > i,
+.packageimg-gallery .owl-dots > div:hover,
+.packageimg-gallery .owl-dots > div.active,
+.logomenu-bar,
+.responsive-menu > ul > li.menu-item-has-children.active > a,
+.responsive-menu > ul > li > a:hover,
+.close-btn,
+.service-title > span,
+.tp-arr-allwrapper:hover::before,
+.s2-l5
+{
+	background:#0b8a4b;
+}
+
+.datepicker td.day.active
+{
+	background:#0b8a4b !important;
+}
+
+/*========== Font Color ==========*/
+.sign-btns > li > a > i,
+.sign-btns > li > a:hover,
+.topbar-contact > li > i,
+.logomenu-sec nav ul li > a:hover,
+.logomenu-sec nav ul li.active > a,
+.s1-l1 > span,
+.s1-l2 > span,
+.search-luxuriousvilla > h3,
+.select-box > i,
+.datepicker th.switch,
+.title1 > span,
+.about-serlist > li,
+.service1 > h4 > a:hover,
+.service1 > i,
+.ratings > i,
+.customer-reviewrating > span,
+.package-thumb > span > i,
+.cate,
+.package-detail > h4 > a:hover,
+.location-book > li:hover > i,
+.offered-serviceinfo > h4 > a:hover,
+.offered-serviceinfo > span,
+.villa-location:hover .villa-locationinfo > h4 > a,
+.villa-locationinfo > span,
+.recentnew-detail > h4 > a:hover,
+.post-meta > li > a:hover,
+.post-meta > li > i,
+.recentnews-carousel .owl-nav > div:hover::before,
+.address-widget > ul > li > span,
+.address-widget > ul > li > a:hover,
+.fun-fact > i,
+.menu-links > ul > li:hover > a,
+.menu-links > ul > li:hover::before,
+.copyright p > a,
+.copyright p > span,
+.featuredimage-content > h2 > span,
+.bloglist-detail .title1 > h2 > a:hover,
+.per-night > span,
+.features-list > li > i,
+.style2 .service1 > span,
+.gallery-detail > span,
+.gallery-detail > h4 > a:hover,
+.title1 > h2 > span,
+.agent-info > h4 > span,
+.agent-contact > li > a:hover,
+.social-btns > li > a:hover,
+.posted-date > i,
+.blogpost-detail > h4 > a:hover,
+.page-title > strong > span,
+.breadcrumbs > li > a:hover,
+.gallery-info > span,
+.gallery-info > i > a:hover,
+.gallery-info > h4 > a:hover,
+.tags-social .social-btns > ul > li,
+blockquote > p span,
+blockquote > p a,
+.author-namesocial > span > a:hover,
+.author-namesocial .social-btns > li,
+.title2 > span,
+.comment-reply-link,
+.comment-info > h5 > a:hover,
+.comment-info > i,
+.widget > ul > li:hover > a,
+.widget > ul > li:hover > span,
+.recent-post > h4 > a:hover,
+.recent-post > span > a:hover,
+.recent-post > span > i,
+.contact-inner > ul > li > span,
+.contact-inner > ul > li > i.desi,
+.contact-inner > ul > li > a:hover,
+.package-video > i,
+.responsive-menu ul ul li.menu-item-has-children.active > a,
+.responsive-menu ul ul li:hover > a,
+.responsive-menu ul ul li.menu-item-has-children.active > i,
+.responsive-menu ul ul li:hover > i
+{
+	color:#0b8a4b;
+}
+
+.s2-l2
+{
+	color:#0b8a4b !important;
+}
+
+/*========== Border Color ==========*/
+.search-luxuriousform,
+.theme-btn,
+.about-serlist.style2 > li::after,
+.style2 .service1 > span,
+.style2 .location-book > li.book-btn,
+.tags-social .social-btns > ul > li > a
+{
+	border-color:#0b8a4b;
+}
+
+/*========== Border Left Color ==========*/
+.instagram .title1::after
+{
+	border-left-color: #0b8a4b;
+}
+
+/*========== Border Right Color ==========*/
+
+{
+	border-right-color: #0b8a4b;
+}
+
+/*========== Border Top Color ==========*/
+.search-luxuriousvilla,
+.customers-reviews .owl-nav > div:hover
+{
+	border-top-color: #0b8a4b;
+}
+
+/*========== Border Bottom Color ==========*/
+.customers-reviews .owl-nav > div.owl-next:hover,
+.footer-links:after
+{
+	border-bottom-color: #0b8a4b;
+}
+
+
+
